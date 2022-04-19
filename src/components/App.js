@@ -25,6 +25,7 @@ const AppContainer = styled.div`
   padding: 0 70px;
   height: 100vh;
   width: 100vw;
+  font-family: 'Grandstander', cursive;
   box-sizing: border-box;
   color: white;
   background-color: rgba(0,0,0,0.8);
