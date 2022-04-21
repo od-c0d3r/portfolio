@@ -1,0 +1,58 @@
+[
+    {
+        "id":0,
+        "title": "Somarven Arenas",
+        "key-technologies": ["React", "Rails", "API-Design", "JsonWebToken", "Swagger", "Heroku"],
+        "desc": "Rails API to be consumed by Somarven front-end. The API allows you to Do CRUD actions for arenas. Also can reserve an arena for a period of time, show or delete any of your reservations.",
+        "link": "https://github.com/mckent05/Somarven-Arenas-backend/tree/main"
+    },
+    {
+        "id":1,
+        "title": "Air Police 1.0",
+        "key-technologies": ["React", "Jest", "Netlify", "OpenWeatherAPI"],
+        "desc": "AirPloice a Mobile-first web application to check a list of countries Air Quailty index, and it's contents. Using OpenWeatherAirQuailty API that provides numeric data about each country, and present it in the app.",
+        "link": "https://github.com/od-c0d3r/air-police"
+    },
+    {
+        "id":2,
+        "title": "RuboFit - ChatBot",
+        "key-technologies": ["Ruby", "Telegram-bot-API", "Heroku"],
+        "desc": "RuboFit is a Telegram bot crafted with Ruby and Telegram Bot API along with atipugin/telegram-bot-ruby, Reminds you to break your inactivity during your coding sessions and other healthy stuff related to developers.",
+        "link": "https://github.com/od-c0d3r/RuboFit-Bot"
+    },
+    {
+        "id":3,
+        "title": "OreoCoin Blockchain",
+        "key-technologies": ["Ruby", "Blockchain"],
+        "desc": "A Blockchain ruby app to keep track of OreoCoin Cryptocurrency transactions or any type of data you want to track and record.",
+        "link": "https://github.com/od-c0d3r/blockchain-ruby"
+    },
+    {
+        "id":4,
+        "title": "VScode Extension",
+        "key-technologies": ["Javascript", "VScode"],
+        "desc": "Alert before save any new code to check if the new code is following Pragmatice Programmer Book ETC principle",
+        "link": "https://github.com/od-c0d3r/pragprog-vscode-extension"
+    },
+    {
+        "id":5,
+        "title": "Mastermind Game",
+        "key-technologies": ["Ruby"],
+        "desc": "a game where you have to guess your opponent's secret code within a certain number of turns",
+        "link": "https://github.com/od-c0d3r/Mastermind-Game"
+    },
+    {
+        "id":6,
+        "title": "Mastermind Game",
+        "key-technologies": ["Ruby", "Nokogiri", "RSpec"],
+        "desc": "A web data mining tool for seaching and extracting pdf files from PDFdrive.com, Crafted with Nokogiri (鋸) RubyGem and Ruby.",
+        "link": "https://github.com/od-c0d3r/IbnHayyan-DataMiner"
+    },
+    {
+        "id":7,
+        "title": "Memory Game",
+        "key-technologies": ["Vanila JS"],
+        "desc": "Shuffle cards every game, Star rate system, Moves counter.",
+        "link": "https://github.com/od-c0d3r/MindPlay-Game"
+    }
+]

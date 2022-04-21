@@ -7,11 +7,13 @@ import RightNav from './RightNav';
 import About from '../pages/About';
 import styled from 'styled-components'
 import Projects from '../pages/Projects';
+import Logo from './Logo';
+
 
 const NavsContainer = styled.div`
   width: 100vw;
   height: 250px;
-  position: absolute;
+  position: fixed;
   z-index: 100;
   top: calc(50vh - 250px/2);
   display:flex;
@@ -23,7 +25,7 @@ const NavsContainer = styled.div`
 
 const AppContainer = styled.div`
   padding: 0 70px;
-  height: 100vh;
+  height: 100%;
   width: 100vw;
   font-family: 'Grandstander', cursive;
   box-sizing: border-box;
@@ -44,6 +46,7 @@ function App() {
         <RightNav />
       </NavsContainer>
       <AppContainer>
+        <Logo />
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />

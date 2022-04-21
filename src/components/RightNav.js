@@ -19,16 +19,16 @@ const Container = styled.nav`
 const RightNav = () => {
     return (
         <Container>
-            <a href='https://github.com/od-c0d3r' target={'_blank'} rel="noreferrer">
+            <a href='https://github.com/od-c0d3r' target='_blank' rel="noreferrer">
                 <FiGithub />
             </a>
-            <a href='https://www.linkedin.com/in/omarrashad' target={'_blank'} rel="noreferrer">
+            <a href='https://www.linkedin.com/in/omarrashad' target='_blank' rel="noreferrer">
                 <RiLinkedinLine />
             </a>
-            <a href='mailto:me@omars.tech' target={'_blank'} rel="noreferrer">
+            <a href='mailto:me@omars.tech' target='_blank' rel="noreferrer">
                 <MdAlternateEmail />
             </a>
-            <a href='https://omarrashad.hashnode.dev' target={'_blank'} rel="noreferrer">
+            <a href='https://omarrashad.hashnode.dev' target='_blank' rel="noreferrer">
                 <FiFeather />
             </a>
         </Container>
